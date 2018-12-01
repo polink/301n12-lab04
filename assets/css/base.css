@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 /*
 	Prologue by HTML5 UP
@@ -43,8 +44,8 @@ html {
 }
 
 body {
-  background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  background: rgb(240, 147, 9);
+  font-family: 'Raleway', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -63,7 +64,7 @@ body {
   }
 
 input, textarea, select {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
@@ -135,7 +136,7 @@ a {
 }
 
   a:hover {
-    color: #E27689;
+    color: rgb(231, 110, 10);
     border-bottom-color: rgba(255, 255, 255, 0);
   }
 

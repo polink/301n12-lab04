@@ -38,3 +38,25 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Number and name of feature: Feature 1, SMACSS
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 8:20p
+
+Finish time: 9:10p
+
+Actual time needed to complete: 50 min! Though not with really processing what the CSS is doing.
+
+
+
+Number and name of feature: Feature 2, Content
+
+Estimate of time needed to complete: 40 minutes
+
+Start time: 9:23p
+
+Finish time: 9:47p
+
+Actual time needed to complete: 24 minutes

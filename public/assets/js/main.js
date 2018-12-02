@@ -94,8 +94,8 @@
 
 			});
 
-	// Scrolly.
-		$('.scrolly').scrolly();
+	// Scrolly. - deactivated due to smooth scroll being integrated
+		// $('.scrolly').scrolly();
 
 	// Header (narrower + mobile).
 

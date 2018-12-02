@@ -164,7 +164,7 @@ section, article {
       }
 
         #nav ul li a.active span:before {
-          color: #C44B1B;
+          color: #e27689;
         }
 
 /* Footer */
@@ -245,7 +245,7 @@ section, article {
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/background1.jpg");
+      background-image: url("../../images/banner.jpg");
     }
 
     #main > section.two {

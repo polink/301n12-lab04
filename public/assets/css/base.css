@@ -179,6 +179,12 @@ br.clear {
   width: 1400px;
 }
 
+@media (max-width: 960px){
+  #main {
+      margin-left: 100px;
+  }
+}
+
   @media screen and (min-width: 961px) and (max-width: 1880px) {
 
     .container {
@@ -202,14 +208,14 @@ br.clear {
     }
 
   }
-
   @media screen and (max-width: 960px) {
-
+    
     .container {
       width: 100%;
     }
-
+    
   }
+  
 
   @media screen and (max-width: 736px) {
 
